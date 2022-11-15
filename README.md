@@ -1,0 +1,2 @@
+# StudyingNeuro
+Изучаю нейронки
